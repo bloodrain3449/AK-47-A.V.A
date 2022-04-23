@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture "models/weapons/v_models/ak47/T_AK47_Newyear_Boar_B"
+$bumpmap  "models/weapons/v_models/ak47/T_AK47_Newyear_Boar_N"
+$normalmapalphaenvmapmask "1"
+$phong "1"
+$phongboost "1"
+$phongfresnelranges "[.2 .4 .5]"
+$phongexponent "50"
+$phongalbedotint "1"
+$envmaptint "[0.1 0.1 0.1]"
+$nocull "1"
+$halflambert "1"
+
+}
